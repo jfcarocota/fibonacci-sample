@@ -1,0 +1,16 @@
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.csproj.AssemblyReference.cache
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.AssemblyInfoInputs.cache
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.AssemblyInfo.cs
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.csproj.CoreCompileInputs.cache
+E:\Documentos\netcore\fibonacci-sample\bin\Debug\net5.0\fibonacci-sample.exe
+E:\Documentos\netcore\fibonacci-sample\bin\Debug\net5.0\fibonacci-sample.deps.json
+E:\Documentos\netcore\fibonacci-sample\bin\Debug\net5.0\fibonacci-sample.runtimeconfig.json
+E:\Documentos\netcore\fibonacci-sample\bin\Debug\net5.0\fibonacci-sample.runtimeconfig.dev.json
+E:\Documentos\netcore\fibonacci-sample\bin\Debug\net5.0\fibonacci-sample.dll
+E:\Documentos\netcore\fibonacci-sample\bin\Debug\net5.0\ref\fibonacci-sample.dll
+E:\Documentos\netcore\fibonacci-sample\bin\Debug\net5.0\fibonacci-sample.pdb
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.dll
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\ref\fibonacci-sample.dll
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.pdb
+E:\Documentos\netcore\fibonacci-sample\obj\Debug\net5.0\fibonacci-sample.genruntimeconfig.cache
